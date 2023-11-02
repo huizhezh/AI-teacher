@@ -1,11 +1,13 @@
-# ChatGPT Voice Assistant
+# ChatGPT AI Voice Assistant
 
 ![GitHub Actions Build Status](https://github.com/jakecyr/openai-gpt3-chatbot/actions/workflows/test-application.yml/badge.svg)
 
-A simple interface to the OpenAI ChatGPT model with speech to text for input and text to speech for the output.
-chatgpt-voice-assistant uses Google Translate's text-to-speech free API for audio input and output (not OpenAI Whisper).
+As an AI teacher, the application incorporates two fundamental functions: speech-to-text for input and text-to-speech for output, with the added capability of providing responses in multiple languages， and different subjects.
+
+Python version: 3.10 Install library: pip install -r requirements.txt
 
 ## Setup
+
 
 ### Mac Prerequisites
 

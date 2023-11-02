@@ -36,6 +36,8 @@ python main.py
 
 ## References
 
+[OpenAI API docs](https://platform.openai.com/docs/quickstart?context=python)
+
 [SpeechRecognition library docs](https://pypi.org/project/SpeechRecognition/1.2.3)
 
 [Google Translate Text-to-Speech API (gTTS)](https://gtts.readthedocs.io/en/latest/module.html#)

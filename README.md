@@ -4,6 +4,12 @@
 
 As an AI teacher, the application incorporates two fundamental functions: speech-to-text for input and text-to-speech for output, with the added capability of providing responses in multiple languages， and different subjects.
 
+<img width="994" alt="Screen Shot 2023-11-02 at 11 22 40 AM" src="https://github.com/huizhezh/AI-teacher/assets/101370768/32ceef7d-2bbc-4129-b212-c4c96d62c4f1">
+####
+
+
+<img width="998" alt="Screen Shot 2023-11-02 at 11 09 14 AM" src="https://github.com/huizhezh/AI-teacher/assets/101370768/daadfbed-145b-4262-af02-354debb935ec">
+
 ### General Setup
 Python version: 3.11 
 Optionally create a new Python environment and activate it:

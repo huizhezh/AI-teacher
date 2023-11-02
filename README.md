@@ -4,7 +4,8 @@
 
 As an AI teacher, the application incorporates two fundamental functions: speech-to-text for input and text-to-speech for output, with the added capability of providing responses in multiple languages， and different subjects.
 
-Python version: 3.10 Install library: pip install -r requirements.txt
+Python version: 3.11 
+Install library: pip install -r requirements.txt
 
 ## Setup
 

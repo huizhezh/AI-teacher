@@ -2,7 +2,7 @@
 
 ![GitHub Actions Build Status](https://github.com/jakecyr/openai-gpt3-chatbot/actions/workflows/test-application.yml/badge.svg)
 
-As an AI teacher, the application incorporates two fundamental functions: speech-to-text for input and text-to-speech for output, with the added capability of providing responses in multiple languages， and different subjects.
+As an AI teacher, users can communicate with AI in multiple languages, and AI is capable of answering questions related to any subject. The application combines essential functions: speech-to-text for input and text-to-speech for output, enhancing user interaction with visual elements, and providing responses in multiple languages across various subjects.
 
 <img width="994" alt="Screen Shot 2023-11-02 at 11 22 40 AM" src="https://github.com/huizhezh/AI-teacher/assets/101370768/32ceef7d-2bbc-4129-b212-c4c96d62c4f1">
 ####
